@@ -27,7 +27,7 @@
 
 ## Overview
 
-This project implements a distributed sensor network for **POCHITA**, the quadruped robot platform at the Universidad Autónoma de Occidente (UAO). The system integrates multiple heterogeneous sensors under a unified **ROS2 Humble** architecture running on a **Raspberry Pi 5**, enabling real-time environmental perception, robot state monitoring, and a graphical user interface for data visualization.
+This project implements a distributed sensor network for the quadruped robot platform at the Universidad Autónoma de Occidente (UAO). The system integrates multiple heterogeneous sensors under a unified **ROS2 Humble** architecture running on a **Raspberry Pi 5**, enabling real-time environmental perception, robot state monitoring, and a graphical user interface for data visualization.
 
 The communication backbone is built on the **CAN Bus** protocol (via Arduino Nano + MCP2515 modules), chosen for its robustness against electromagnetic interference, real-time error detection, and ability to support multiple nodes on a shared bus — critical for embedded robotics applications.
 
@@ -283,7 +283,7 @@ rqt_graph    # View the full node/topic graph
 | `interfaz_suscriber` | `interfaz_open3d.py` | multiple | Subscriber | Central monitoring GUI |
 | `rplidar_composition` | — | `scan` | Publisher | 2D LiDAR point cloud for RViz |
 | `rviz_launcher_node` | `rviz_launcher_node.py` | — | — | Launches RViz2 with preconfigured layout |
-| `stl_node` | `prueba_stl.py` | `serial_data` | Subscriber | Live 3D orientation of POCHITA STL model |
+| `stl_node` | `prueba_stl.py` | `serial_data` | Subscriber | Live 3D orientation of STL model |
 | `transform_listener_impl` | — | `tf` | Subscriber | Spatial transform support |
 | `comandos_pub` | `comandos_pub.py` | `/commands` | Publisher | Motion command publisher |
 | `comandos_sus` | `comandos_sus.py` | `/commands` | Subscriber | Commands → CAN Bus bridge |
