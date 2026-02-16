@@ -1,6 +1,4 @@
-# 🤖 Red de Sensores para Plataforma Cuadrúpeda — UAO
-
-> **Implementación de una Red de Sensores para Labores de Investigación Aplicada sobre la Plataforma Cuadrúpeda Existente en la UAO**
+# 🤖 Red de Sensores para Plataforma Cuadrúpeda 
 
 [![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04%20%7C%2024.04-orange)](https://ubuntu.com/)
@@ -8,9 +6,6 @@
 [![License](https://img.shields.io/badge/License-Academic-lightgrey)]()
 
 **Authors:** Anderson Sneider Del Castillo Criollo · Diego Alejandro Hernandez Losada  
-**Advisor:** Javier Ferney Castillo García, PhD  
-**Institution:** Universidad Autónoma de Occidente — Facultad de Ingeniería y Ciencias Básicas  
-**Program:** Ingeniería Mecatrónica — Santiago de Cali, 2025
 
 ---
 
@@ -184,7 +179,7 @@ robot-quadruped-sensor-network/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/[your-username]/robot-quadruped-sensor-network.git
+git clone https://github.com/diego2704/robot-quadruped-sensor-network.git
 cd robot-quadruped-sensor-network
 ```
 
@@ -339,11 +334,22 @@ The [`demo/`](demo/) folder contains screenshots of the monitoring GUI, which pr
 
 ---
 
+## Contact
+
+Feel free to reach out for questions, collaborations, or academic inquiries:
+
+| | Anderson Sneider Del Castillo Criollo | Diego Alejandro Hernandez Losada |
+|---|---|---|
+| **GitHub** | [@delcri](https://github.com/delcri) | [@diego2704](https://github.com/diego2704) |
+| **Email** | delcast2210@gmail.com | hernandezdiegoalejandro35@gmail.com |
+
+---
+
 ## License & Citation
 
-This project is a thesis submission at Universidad Autónoma de Occidente. All rights reserved unless otherwise stated.
+© 2025 Anderson Sneider Del Castillo Criollo & Diego Alejandro Hernandez Losada. All rights reserved.
 
-For academic use, please cite:
+This project was developed as a thesis at Universidad Autónoma de Occidente. For academic or research use, please cite the authors:
 
 ```
 A. S. Del Castillo Criollo and D. A. Hernandez Losada,
