@@ -342,6 +342,7 @@ Feel free to reach out for questions, collaborations, or academic inquiries:
 |---|---|---|
 | **GitHub** | [@delcri](https://github.com/delcri) | [@diego2704](https://github.com/diego2704) |
 | **Email** | delcast2210@gmail.com | hernandezdiegoalejandro35@gmail.com |
+| **LinkedIn** | [anderson-sneider-del-castillo](https://www.linkedin.com/in/anderson-sneider-del-castillo-criollo-12b987297) | [diego-hernandez](https://www.linkedin.com/in/diego-hernandez-1827ab256) |
 
 ---
 
